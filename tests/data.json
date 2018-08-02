@@ -1,0 +1,45 @@
+[
+  {
+    "isActive": true,
+    "balance": 15000.50,
+    "age": 22,
+    "name": {
+      "first": "Leonardo",
+      "last": "Takato"
+    },
+    "email": "leonardo.takato@gmail.com",
+    "tags": [
+      "programming",
+      "js",
+      "ember"
+    ]
+  },
+  {
+    "isActive": true,
+    "balance": 2006.43,
+    "age": 21,
+    "name": {
+      "first": "Wellington",
+      "last": "Santos"
+    },
+    "email": "wellington.santos@gmail.com",
+    "tags": [
+      "programming",
+      "js",
+      "ramda"
+    ]
+  },
+  {
+    "isActive": true,
+    "balance": 1042,
+    "age": 17,
+    "name": {
+      "first": "Geroudo",
+      "last": "Cleversom"
+    },
+    "email": "geroudo.cleversom@gmail.com",
+    "tags": [
+      "forbidden"
+    ]
+  }
+]
